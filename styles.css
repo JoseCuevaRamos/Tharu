@@ -27,7 +27,7 @@ header{
     height: 87.5%;
     gap: 25%;
     border-radius: 20px;
-    background-image: url(/imagenes/cerrito.png);
+    background-image: url(imagenes/cerrito.png);
     background-position: center;
     background-size: cover;
 
